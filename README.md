@@ -1,1 +1,1 @@
-# projects-directory
+# Projects Directory

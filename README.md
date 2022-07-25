@@ -1,12 +1,12 @@
 # Projects Directory
 #### Collection of all my projects
+##### The language(s) that is in bold was my main focus for the project
 
-[A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [I](#i) - [M](#m) - [N](#n) - [O](#o) - [P](#p)- [Q](#q) - [R](#r) - [S](#s) - [T](#t) - [U](#u) - [W](#w)
+[C](#c) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [I](#i) - [M](#m) - [N](#n) - [O](#o) - [P](#p)- [Q](#q) - [R](#r) - [S](#s) - [T](#t) - [U](#u) - [W](#w)
 
-
-## A <a id="a"></a>
- 
-## B <a id="b"></a>
 
 ## C <a id="c"></a>
-- <a href="https://github.com/viktordepomian/calculator">Calculator</a> - Simple Calculator made with HTML, CSS & Javascript
+- <a href="https://github.com/viktordepomian/calculator">Calculator</a> - Simple Calculator made with HTML, CSS & **Javascript**
+
+## E <a id="e"></a>
+- <a href="https://github.com/viktordepomian/etch-a-sketch">Etch-A-Sketch</a> - 16x16 drawing grid. Made with HTML, CSS & **Javascript**

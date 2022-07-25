@@ -10,3 +10,7 @@
 
 ## E <a id="e"></a>
 - <a href="https://github.com/viktordepomian/etch-a-sketch">Etch-A-Sketch</a> - 16x16 drawing grid. Made with HTML, CSS & **Javascript**
+
+## P <a id="p"></a>
+- <a href="https://github.com/viktordepomian/palindromes">Palindrome</a> - See if the word reads the same backward or forward **Javascript**
+- <a href="https://github.com/viktordepomian/portfolio">Portfolio</a> - My own portfolio, showcasing some of my work.

@@ -2,7 +2,7 @@
 #### Collection of all my projects
 ##### The language(s) that is in bold was my main focus for the project
 
-[A](#a) - [B](#b) - [C](#c) - [E](#e) - [F](#f) - [H](#h) - [P](#p) - [R](#r) - [S](#s) - [T](#t)
+[A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [H](#h) - [P](#p) - [R](#r) - [S](#s) - [T](#t)
 
 ## A <a id="a"></a>
 - <a href="https://github.com/viktordepomian/auto-write-text">Auto Write Text</a> - Text that will write itself - **CSS** & **Javascript**
@@ -12,6 +12,9 @@
 
 ## C <a id="c"></a>
 - <a href="https://github.com/viktordepomian/calculator">Calculator</a> - Simple Calculator - HTML, CSS & **Javascript**
+
+## D <a id="d"></a>
+- <a href="https://github.com/viktordepomian/dark-mode-toggle">Dark Mode Toggle</a> - Light to dark - **Javascript**
 
 ## E <a id="e"></a>
 - <a href="https://github.com/viktordepomian/etch-a-sketch">Etch-A-Sketch</a> - 16x16 drawing grid - CSS & **Javascript**

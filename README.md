@@ -2,7 +2,7 @@
 #### Collection of all my projects
 ##### The language(s) that is in bold was my main focus for the project
 
-[A](#a) - [C](#c) - [E](#e) - [P](#p) - [R](#r) - [S](#s) - [T](#t)
+[A](#a) - [B](#b) - [C](#c) - [E](#e) - [H](#h) - [P](#p) - [R](#r) - [S](#s) - [T](#t)
 
 ## A <a id="a"></a>
 - <a href="https://github.com/viktordepomian/auto-write-text">Auto Write Text</a> - Text that will write itself - **CSS** & **Javascript**
@@ -15,6 +15,9 @@
 
 ## E <a id="e"></a>
 - <a href="https://github.com/viktordepomian/etch-a-sketch">Etch-A-Sketch</a> - 16x16 drawing grid - CSS & **Javascript**
+
+## H <a id="h"></a>
+- <a href="https://github.com/viktordepomian/hamburger-hidden-menu">Hamburger Menu</a> - Click button to show hidden menu - CSS & **Javascript**
 
 ## P <a id="p"></a>
 - <a href="https://github.com/viktordepomian/palindromes">Palindrome</a> - See if the word reads the same backward or forward - **Javascript**

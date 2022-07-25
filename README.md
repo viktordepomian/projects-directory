@@ -2,8 +2,10 @@
 #### Collection of all my projects
 ##### The language(s) that is in bold was my main focus for the project
 
-[C](#c) - [E](#e) - [P](#p) - [R](#r) - [S](#s) - [T](#t)
+[A](#a) - [C](#c) - [E](#e) - [P](#p) - [R](#r) - [S](#s) - [T](#t)
 
+## A <a id="a"></a>
+- <a href="https://github.com/viktordepomian/auto-write-text">Auto Write Text</a> - Text that will write itself - **CSS** & **Javascript**
 
 ## C <a id="c"></a>
 - <a href="https://github.com/viktordepomian/calculator">Calculator</a> - Simple Calculator - HTML, CSS & **Javascript**

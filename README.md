@@ -12,7 +12,9 @@
 
 ## C <a id="c"></a>
 - <a href="https://github.com/viktordepomian/calculator">Calculator</a> - Simple Calculator - HTML, CSS & **Javascript**
+- <a href="https://github.com/viktordepomian/color-flipper">Color Flipper</a> - **Javascript**
 
+https://github.com/viktordepomian/color-flipper
 ## D <a id="d"></a>
 - <a href="https://github.com/viktordepomian/dark-mode-toggle">Dark Mode Toggle</a> - Light to dark - **Javascript**
 

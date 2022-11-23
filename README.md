@@ -2,7 +2,7 @@
 #### Collection of all my projects
 ##### The language(s) that is in bold was my main focus for the project
 
-[A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [H](#h) - [P](#p) - [R](#r) - [S](#s) - [T](#t)
+[A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [P](#p) - [R](#r) - [S](#s) - [T](#t)
 
 ## A <a id="a"></a>
 - <a href="https://github.com/viktordepomian/auto-write-text">Auto Write Text</a> - Text that will write itself - **CSS** & **Javascript**
@@ -24,6 +24,9 @@
 
 ## F <a id="f"></a>
 - <a href="https://github.com/viktordepomian/falling-emojis">Falling Emojis</a> - Flamingos falling fom the sky - **CSS** & **Javascript**
+
+## G <a id="g"></a>
+- <a href="https://github.com/viktordepomian/gradient-generator">Gradient Generator</a> - **Javascript**
 
 ## H <a id="h"></a>
 - <a href="https://github.com/viktordepomian/hamburger-hidden-menu">Hamburger Menu</a> - Click button to show hidden menu - **CSS** & **Javascript**

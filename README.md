@@ -1,6 +1,6 @@
 # Projects Directory
 #### Collection of all my projects
-##### The language(s) that is in bold was my main focus for the project
+##### The language(s) that is in bold was my main focus for the project. Some of these projects are not made/filled with responsive design/pretty stuff since they are mainly focused on logic.
 
 [A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [P](#p) - [R](#r) - [S](#s) - [T](#t)
 

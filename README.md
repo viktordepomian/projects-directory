@@ -14,7 +14,7 @@
 - <a href="https://github.com/viktordepomian/calculator">Calculator - STILL ONGOING</a> - Simple Calculator - HTML, CSS & **Javascript**
 - <a href="https://github.com/viktordepomian/color-flipper">Color Flipper</a> - **Javascript**
 - <a href="https://github.com/viktordepomian/Simple-Counter">Simple Counter</a> - Not made to look pretty - **Javascript**
-- <a href="https://github.com/viktordepomian/countdown-clock">Countdown Clock</a> - **Javascript**
+- <a href="https://github.com/viktordepomian/countdown-clock">Countdown Clock</a> - Countdown with full timers - **Javascript**
 
 ## D <a id="d"></a>
 - <a href="https://github.com/viktordepomian/dark-mode-toggle">Dark Mode Toggle</a> - Light to dark - **Javascript**

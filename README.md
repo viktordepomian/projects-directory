@@ -45,6 +45,7 @@
 
 ## S <a id="s"></a>
 - <a href="https://github.com/viktordepomian/sum-all">Sum All</a> - Add everything between two INTs - **Javascript**
+- <a href="https://github.com/viktordepomian/stopwatch">Stopwatch</a> - Simple Stopwatch - **Javascript**
 
 ## T <a id="t"></a>
 - <a href="https://github.com/viktordepomian/temp-conversion">Temperature Conversion</a> - Fahrenheit to Celsuis and vice versa - **Javascript**

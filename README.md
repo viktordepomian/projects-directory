@@ -34,10 +34,7 @@
 - <a href="https://github.com/viktordepomian/hamburger-hidden-menu">Hamburger Menu</a> - Click button to show hidden menu - **CSS** & **Javascript**
 
 ## M <a id="m"></a>
-- <a href="https://github.com/viktordepomian/mad-libs-generator">Mad-Libs</a> - First python project - **Python**
-
-
-https://github.com/viktordepomian/mad-libs-generator
+- <a href="https://github.com/viktordepomian/mad-libs-generator">Mad Libs</a> - First python project - **Python**
 
 ## P <a id="p"></a>
 - <a href="https://github.com/viktordepomian/palindromes">Palindrome</a> - See if the word reads the same backward or forward - **Javascript**

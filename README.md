@@ -16,6 +16,7 @@
 - <a href="https://github.com/viktordepomian/Simple-Counter">Simple Counter</a> - Not made to look pretty - **Javascript**
 - <a href="https://github.com/viktordepomian/countdown-clock">Countdown Clock</a> - Countdown with full timers - **Javascript**
 - <a href="https://github.com/viktordepomian/bmi-calc">BMI Calculator</a> - Input your stats - **Python**
+- <a href="https://github.com/viktordepomian/countdown-timer">Countdown Timer</a> - Input a number and make it count down - **Python**
 
 ## D <a id="d"></a>
 - <a href="https://github.com/viktordepomian/dark-mode-toggle">Dark Mode Toggle</a> - Light to dark - **Javascript**

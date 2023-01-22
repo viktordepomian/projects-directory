@@ -50,6 +50,9 @@
 - <a href="https://github.com/viktordepomian/remove-from-array">Remove from Array</a> - Input your array and what you want deleted - **Javascript**
 - <a href="https://github.com/viktordepomian/repeat-string">Repeat String</a> - Enter a string and how many times you want it repeated - **Javascript**
 - <a href="https://github.com/viktordepomian/reverse-string">Reverse String</a> - Enter a string you want to be reversed - **Javascript**
+- <a href="https://github.com/viktordepomian/rotating-cube">Rotating Cube</a> - Just a flashy cube that is rotating - **CSS**
+
+
 
 ## S <a id="s"></a>
 - <a href="https://github.com/viktordepomian/sum-all">Sum All</a> - Add everything between two INTs - **Javascript**

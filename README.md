@@ -2,7 +2,7 @@
 #### Collection of all my projects
 ##### The language(s) that is in bold was my main focus for the project. Some of these projects are not made/filled with responsive design/pretty stuff since they are mainly focused on logic.
 
-[A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [M](#m) - [P](#p) - [R](#r) - [S](#s) - [T](#t)
+[A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [M](#m) - [N](#n) - [P](#p) - [R](#r) - [S](#s) - [T](#t)
 
 ## A <a id="a"></a>
 - <a href="https://github.com/viktordepomian/auto-write-text">Auto Write Text</a> - Text that will write itself - **CSS** & **Javascript**
@@ -35,6 +35,9 @@
 
 ## M <a id="m"></a>
 - <a href="https://github.com/viktordepomian/mad-libs-generator">Mad Libs</a> - First python project - **Python**
+
+## M <a id="m"></a>
+- <a href="https://github.com/viktordepomian/number-guessing">Guess the number</a> - A number guessing game - **Python**
 
 ## P <a id="p"></a>
 - <a href="https://github.com/viktordepomian/palindromes">Palindrome</a> - See if the word reads the same backward or forward - **Javascript**

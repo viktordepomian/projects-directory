@@ -37,7 +37,7 @@
 - <a href="https://github.com/viktordepomian/mad-libs-generator">Mad Libs</a> - First python project - **Python**
 
 ## N <a id="n"></a>
-- <a href="https://github.com/viktordepomian/number-guessing">Guess the number</a> - A number guessing game - **Python**
+- <a href="https://github.com/viktordepomian/number-guessing">Number guessing</a> - A number guessing game - **Python**
 
 ## P <a id="p"></a>
 - <a href="https://github.com/viktordepomian/palindromes">Palindrome</a> - See if the word reads the same backward or forward - **Javascript**

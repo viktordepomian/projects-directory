@@ -11,7 +11,7 @@
 - <a href="https://github.com/viktordepomian/background-changer">Background Changer</a> - Click the button to change color - HTML, CSS & **Javascript**
 
 ## C <a id="c"></a>
-- <a href="https://github.com/viktordepomian/calculator">Calculator - STILL ONGOING</a> - Simple Calculator - HTML, CSS & **Javascript**
+- <a href="https://github.com/viktordepomian/calculator">Calculator</a> - Simple Calculator - **Javascript**
 - <a href="https://github.com/viktordepomian/color-flipper">Color Flipper</a> - **Javascript**
 - <a href="https://github.com/viktordepomian/Simple-Counter">Simple Counter</a> - Not made to look pretty - **Javascript**
 - <a href="https://github.com/viktordepomian/countdown-clock">Countdown Clock</a> - Countdown with full timers - **Javascript**

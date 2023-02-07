@@ -44,6 +44,7 @@
 - <a href="https://github.com/viktordepomian/palindromes">Palindrome</a> - See if the word reads the same backward or forward - **Javascript**
 - <a href="https://github.com/viktordepomian/portfolio">Portfolio</a> - My own portfolio, showcasing some of my work
 - <a href="https://github.com/viktordepomian/popup-modal">Popup Modal</a> - Modal controlled by button - **Javascript**
+- <a href="https://github.com/viktordepomian/pass-the-msg">Pass The Message</a> - Enter a message for the next person - **Javascript**
 
 ## R <a id="r"></a>
 - <a href="https://github.com/viktordepomian/random-quotes">Random Quotes</a> - Just press the button to get a random quote - **Javascript & API FETCH**

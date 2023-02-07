@@ -9,13 +9,12 @@
 
 ## B <a id="b"></a>
 - <a href="https://github.com/viktordepomian/background-changer">Background Changer</a> - Click the button to change color - HTML, CSS & **Javascript**
+- <a href="https://github.com/viktordepomian/bmi-calc">BMI Calculator</a> - Input your stats - **Python**
 
 ## C <a id="c"></a>
 - <a href="https://github.com/viktordepomian/calculator">Calculator</a> - Simple Calculator - **Javascript**
 - <a href="https://github.com/viktordepomian/color-flipper">Color Flipper</a> - **Javascript**
-- <a href="https://github.com/viktordepomian/Simple-Counter">Simple Counter</a> - Not made to look pretty - **Javascript**
 - <a href="https://github.com/viktordepomian/countdown-clock">Countdown Clock</a> - Countdown with full timers - **Javascript**
-- <a href="https://github.com/viktordepomian/bmi-calc">BMI Calculator</a> - Input your stats - **Python**
 - <a href="https://github.com/viktordepomian/countdown-timer">Countdown Timer</a> - Input a number and make it count down - **Python**
 
 ## D <a id="d"></a>
@@ -53,13 +52,13 @@
 - <a href="https://github.com/viktordepomian/reverse-string">Reverse String</a> - Enter a string you want to be reversed - **Javascript**
 - <a href="https://github.com/viktordepomian/rotating-cube">Rotating Cube</a> - Just a flashy cube that is rotating - **CSS**
 
-
-
 ## S <a id="s"></a>
 - <a href="https://github.com/viktordepomian/sum-all">Sum All</a> - Add everything between two INTs - **Javascript**
 - <a href="https://github.com/viktordepomian/stopwatch">Stopwatch</a> - Simple Stopwatch - **Javascript**
+- <a href="https://github.com/viktordepomian/Simple-Counter">Simple Counter</a> - Not made to look pretty - **Javascript**
 
 ## T <a id="t"></a>
 - <a href="https://github.com/viktordepomian/temp-conversion">Temperature Conversion</a> - Fahrenheit to Celsuis and vice versa - **Javascript**
 - <a href="https://github.com/viktordepomian/toast-notification">Toast Notification</a> - Notification at bottom, right corner - **Javascript**
 - <a href="https://github.com/viktordepomian/to-do">To Do</a> - Simple To Do. Will upgrade when I have the time. Localstorage, etc - **Javascript**
+- <a href="https://github.com/viktordepomian/tip-calculator">Tip Calculator</a> - Calculator for your restaurant visit - **Javascript**

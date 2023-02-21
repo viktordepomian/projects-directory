@@ -2,7 +2,7 @@
 #### Collection of all my projects
 ##### The language(s) that is in bold was my main focus for the project. Some of these projects are not made/filled with responsive design/pretty stuff since they are mainly focused on logic.
 
-[A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [M](#m) - [N](#n) - [P](#p) - [R](#r) - [S](#s) - [T](#t)
+[A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [M](#m) - [N](#n) - [P](#p) - [R](#r) - [S](#s) - [T](#t) - [W](#w)
 
 ## A <a id="a"></a>
 - <a href="https://github.com/viktordepomian/auto-write-text">Auto Write Text</a> - Text that will write itself - **CSS** & **Javascript**
@@ -62,3 +62,6 @@
 - <a href="https://github.com/viktordepomian/toast-notification">Toast Notification</a> - Notification at bottom, right corner - **Javascript**
 - <a href="https://github.com/viktordepomian/to-do">To Do</a> - Simple To Do. Will upgrade when I have the time. Localstorage, etc - **Javascript**
 - <a href="https://github.com/viktordepomian/tip-calculator">Tip Calculator</a> - Calculator for your restaurant visit - **Javascript**
+
+## W <a id="w"></a>
+- <a href="https://github.com/viktordepomian/weather-app">Weather App</a> - Type in a city and press enter - **Javascript**

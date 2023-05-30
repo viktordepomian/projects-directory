@@ -1,6 +1,6 @@
 # Projects Directory
 #### Collection of all my projects
-#### These projects that has been added, so far, are old ones, really old. Newer ones from 20-22 are coming.
+#### These projects that has been added, so far, are old ones, really old. Newer ones from 21-23 are coming.
 ##### The language(s) that is in bold was my main focus for the project. Some of these projects are not made/filled with responsive design/pretty stuff since they are mainly focused on logic.
 
 [A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [M](#m) - [N](#n) - [P](#p) - [R](#r) - [S](#s) - [T](#t) - [W](#w)

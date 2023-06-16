@@ -61,7 +61,6 @@
 ## T <a id="t"></a>
 - <a href="https://github.com/viktordepomian/temp-conversion">Temperature Conversion</a> - Fahrenheit to Celsuis and vice versa - **Javascript**
 - <a href="https://github.com/viktordepomian/toast-notification">Toast Notification</a> - Notification at bottom, right corner - **Javascript**
-- <a href="https://github.com/viktordepomian/to-do">To Do</a> - Simple To Do. Will upgrade when I have the time. Localstorage, etc - **Javascript**
 - <a href="https://github.com/viktordepomian/tip-calculator">Tip Calculator</a> - Calculator for your restaurant visit - **Javascript**
 
 ## W <a id="w"></a>

@@ -65,4 +65,4 @@
 - <a href="https://github.com/viktordepomian/todo-app">Todo App</a> - Add and remove from a todo. LocalStorage implemented - **React & Next.js**
 
 ## W <a id="w"></a>
-- <a href="https://github.com/viktordepomian/weather-app">Weather App</a> - Type in a city and press enter - **Javascript**
+- <a href="https://github.com/viktordepomian/weather-app">Weather App</a> - Type in a city(there are suggestions) and press enter - **React**

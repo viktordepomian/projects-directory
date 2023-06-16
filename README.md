@@ -62,6 +62,7 @@
 - <a href="https://github.com/viktordepomian/temp-conversion">Temperature Conversion</a> - Fahrenheit to Celsuis and vice versa - **Javascript**
 - <a href="https://github.com/viktordepomian/toast-notification">Toast Notification</a> - Notification at bottom, right corner - **Javascript**
 - <a href="https://github.com/viktordepomian/tip-calculator">Tip Calculator</a> - Calculator for your restaurant visit - **Javascript**
+- <a href="https://github.com/viktordepomian/todo-app">Todo App</a> - Add and remove from a todo. LocalStorage implemented - **React & Next.js**
 
 ## W <a id="w"></a>
 - <a href="https://github.com/viktordepomian/weather-app">Weather App</a> - Type in a city and press enter - **Javascript**

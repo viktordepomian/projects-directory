@@ -1,5 +1,5 @@
 # Projects Directory
-#### Collection of all my projects
+#### Collection of my projects
 #### The projects listed below the line are quite old. Please check if you'd like to. There may be duplicates between the old and new ones.
 ##### The language(s) in bold were my main focus for the project. Some of these projects lack responsive design or aesthetic details, as they primarily focus on logic.
 

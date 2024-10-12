@@ -8,6 +8,7 @@
 ## A <a id="a"></a> -->
 
 - <a href="https://github.com/viktordepomian/weather-app-python">Weather App</a> - **Python**
+- <a href="https://github.com/viktordepomian/expense-tracker">Expense Tracker</a> - **Python**
 
 
 ***

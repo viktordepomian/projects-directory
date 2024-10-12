@@ -8,7 +8,8 @@
 ## A <a id="a"></a> -->
 
 
-### Everything below this point are old projects
+***
+
 - <a href="https://github.com/viktordepomian/auto-write-text">Auto Write Text</a> - Text that will write itself - **CSS** & **Javascript**
 - <a href="https://github.com/viktordepomian/background-changer">Background Changer</a> - Click the button to change color - HTML, CSS & **Javascript**
 - <a href="https://github.com/viktordepomian/bmi-calc">BMI Calculator</a> - Input your stats - **Python**

@@ -9,8 +9,11 @@
 
 - <a href="https://github.com/viktordepomian/weather-app-python">Weather App</a> - **Python**
 - <a href="https://github.com/viktordepomian/expense-tracker">Expense Tracker</a> - **Python**
+- <a href="https://github.com/viktordepomian/break-this-brick/">Brick Breaker</a> - **Javascript**
 
 
+***
+***
 ***
 
 - <a href="https://github.com/viktordepomian/auto-write-text">Auto Write Text</a> - Text that will write itself - **CSS** & **Javascript**

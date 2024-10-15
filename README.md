@@ -11,6 +11,7 @@
 - <a href="https://github.com/viktordepomian/expense-tracker">Expense Tracker</a> - **Python**
 - <a href="https://github.com/viktordepomian/break-this-brick/">Brick Breaker Game</a> - **Javascript**
 - <a href="https://github.com/viktordepomian/chat-application/">Chat App</a> - **Javascript**
+- <a href="https://github.com/viktordepomian/speech-recognition">Speech Recognition</a> - **Javascript**
 
 
 ***

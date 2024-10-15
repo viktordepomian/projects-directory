@@ -1,6 +1,6 @@
 # Projects Directory
 #### Collection of my projects
-#### The projects listed below the line are quite old. Please check if you'd like to. There may be duplicates between the old and new ones.
+#### The projects listed below the lines are quite old. Please check if you'd like to. There may be duplicates between the old and new ones.
 ##### The language(s) in bold were my main focus for the project. Some of these projects lack responsive design or aesthetic details, as they primarily focus on logic.
 
 <!-- [A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [M](#m) - [N](#n) - [P](#p) - [R](#r) - [S](#s) - [T](#t) - [W](#w)
